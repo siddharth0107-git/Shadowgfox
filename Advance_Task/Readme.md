@@ -83,13 +83,4 @@ These insights can help understand BMW’s market behavior and strategic areas o
 This project demonstrates how real-world automotive sales data can be visualized and interpreted using Python.  
 By combining simple analysis with meaningful charts, we can identify trends, evaluate product performance, and understand market behavior effectively.
 
-If needed, I can extend this project with:
-- Forecasting (ARIMA/Prophet)
-- Interactive dashboards
-- Detailed regional segmentation
-- Model lifecycle analysis  
-
-Just let me know!
-
 ---
-
