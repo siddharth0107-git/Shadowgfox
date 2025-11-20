@@ -84,3 +84,10 @@ This project demonstrates how real-world automotive sales data can be visualized
 By combining simple analysis with meaningful charts, we can identify trends, evaluate product performance, and understand market behavior effectively.
 
 ---
+## 👤 Author
+**Name:** Vunnagari Siddharth  
+**Internship:** ShadowFox Data Science  
+**Task Level:** Advance  
+**Month:** November 2025  
+
+---
