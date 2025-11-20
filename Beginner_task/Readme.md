@@ -49,3 +49,10 @@ Together, they make data visualization powerful, professional, and easy to under
 
 ---
 
+## 👤 Author
+**Name:** V. Siddharth  
+**Internship:** ShadowFox Data Science  
+**Task Level:** Beginner   
+**Month:** November 2025  
+
+---
